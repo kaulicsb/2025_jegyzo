@@ -15,7 +15,7 @@ A mért és számított paraméterek összehasonlítása felül és aluláteresz
   - Rv=12.05kΩ
   - C=100nF
 
-**Gyakorlati megvalósítás:**
+## Gyakorlati megvalósítás:
 ![IMG_4243](https://github.com/user-attachments/assets/593e15e1-60fb-426e-8851-5d8871ecd9b9)
 
 
