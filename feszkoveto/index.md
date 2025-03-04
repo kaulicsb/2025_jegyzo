@@ -1,7 +1,7 @@
 # Jegyzőkönyv - Feszültség követő TL071-es Pinouttal, DAQK Oszcilloszkóppal és Funkció Generátorral
 
 **Dátum**: 2025. február 4.  
-**Készítette**: [Kaulics Balázs]
+**Készítette**: Kaulics Balázs
 
 ---
 
