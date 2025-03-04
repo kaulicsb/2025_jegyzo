@@ -33,6 +33,7 @@ A mért és számított paraméterek összehasonlítása felül és aluláteresz
 - **Erősítés dB-ben (AudB):** 14,52 dB
 
 **Mérés:**
+
 ![Képkivágás20](https://github.com/user-attachments/assets/8da0120d-bf9f-4c34-8c98-c8acad9989fe)
 
 
