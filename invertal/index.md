@@ -10,6 +10,7 @@
 | Normál színű         | 12.05 k|
 | Zöld színű           | 1.4k  |
 
+## TL071 Pinout:
 A TL071 egy három lábas műveleti erősítő, az alábbi pinout szerint:
 
 - **Pin 1 (Offset Null)**: Az offset feszültség beállításához
@@ -20,7 +21,6 @@ A TL071 egy három lábas műveleti erősítő, az alábbi pinout szerint:
 - **Pin 6 (Output)**: Kimeneti jel
 - **Pin 7 (V+)**: Pozitív tápegység csatlakozása
 - **Pin 8 (NC)**: Nem használt, szabad láb
-
 ## Használt eszközök:
 - Ni myDAQ
 - 2 ellenállás
