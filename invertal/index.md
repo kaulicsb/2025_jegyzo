@@ -7,8 +7,8 @@
   ## Ellenállás adatok:
 | Ellenállás típusa    | Érték  | 
 |----------------------|--------|
-| Normál színű         | 12.05 k|
-| Zöld színű           | 1.4k  |
+| R1        | 12.05 k|
+| R2          | 1.4k  |
 
 ## TL071 Pinout:
 A TL071 egy három lábas műveleti erősítő, az alábbi pinout szerint:
