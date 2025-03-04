@@ -13,7 +13,17 @@
 
 
 ---
+## TL071 Pinout:
+A TL071 egy három lábas műveleti erősítő, az alábbi pinout szerint:
 
+- **Pin 1 (Offset Null)**: Az offset feszültség beállításához
+- **Pin 2 (Inverting Input, -)**: Inverz bemenet
+- **Pin 3 (Non-Inverting Input, +)**: Nem inverz bemenet
+- **Pin 4 (V-)**: Negatív tápegység csatlakozása
+- **Pin 5 (Offset Null)**: Az offset feszültség beállításához
+- **Pin 6 (Output)**: Kimeneti jel
+- **Pin 7 (V+)**: Pozitív tápegység csatlakozása
+- **Pin 8 (NC)**: Nem használt, szabad láb
 
 ## Méréshez használt eszközök / berendezések:
 - NI Mydaq
